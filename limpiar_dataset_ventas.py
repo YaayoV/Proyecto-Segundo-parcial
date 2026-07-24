@@ -1,4 +1,3 @@
-## IMPORTAR PANDAS
 import pandas as pd
 
 datos = pd.read_csv("dataset_ventas_proyecto.csv")
