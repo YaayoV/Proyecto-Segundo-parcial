@@ -1,0 +1,181 @@
+ID_Venta,Fecha,Producto,Categoria,Precio_Unitario,Cantidad_Vendida,Promocion,Sucursal,Canal,Venta_Total
+1,2025-01-01,Laptop Air 13,Computo,14266.52,8,Si,Toreo,Marketplace,114132.16
+2,2025-01-03,SSD 1TB,Almacenamiento,1765.84,6,Si,Toreo,Tienda,10595.04
+3,2025-01-05,Laptop Air 13,Computo,14890.64,6,No,Satélite,Tienda,89343.84
+4,2025-01-07,Bocina Portatil,Audio,1494.87,9,No,Toreo,Tienda,13453.83
+5,2025-01-09,Audifonos Bluetooth,Audio,1128.98,6,No,Toreo,Tienda,6773.88
+6,2025-01-11,Audifonos Bluetooth,Audio,1084.49,10,Si,Naucalpan,Marketplace,10844.9
+7,2025-01-13,Teclado Mecanico,Accesorios,1309.14,8,Si,Satélite,Tienda,10473.12
+8,2025-01-15,SSD 1TB,Almacenamiento,1807.65,3,No,Naucalpan,Marketplace,5422.95
+9,2025-01-17,Monitor 27,Monitores,6069.42,10,Si,Toreo,Tienda,60694.2
+10,2025-01-19,Laptop Air 13,Computo,14471.4,6,No,Naucalpan,Tienda,86828.4
+11,2025-01-21,Mouse Inalambrico,Accesorios,678.38,6,No,Toreo,Marketplace,4070.28
+12,2025-01-23,Monitor 24,Monitores,3768.73,8,No,Satélite,Web,30149.84
+13,2025-01-25,SSD 1TB,Almacenamiento,1798.3,4,No,Centro,Tienda,7193.2
+14,2025-01-27,Mouse Inalambrico,Accesorios,634.9,2,No,Centro,Marketplace,1269.8
+15,2025-01-29,Mouse Inalambrico,Accesorios,676.95,5,No,Satélite,Tienda,3384.75
+16,2025-01-31,Teclado Mecanico,Accesorios,1218.33,4,No,Naucalpan,Marketplace,4873.32
+17,2025-02-02,Memoria USB 128GB,Almacenamiento,466.53,9,No,Centro,Marketplace,4198.77
+18,2025-02-04,Bocina Portatil,Audio,1487.09,8,Si,Toreo,Tienda,11896.72
+19,2025-02-06,Monitor 24,Monitores,3937.4,5,No,Satélite,Marketplace,19687.0
+20,2025-02-08,Teclado Mecanico,Accesorios,1272.54,8,Si,Toreo,Marketplace,10180.32
+21,2025-02-10,SSD 1TB,Almacenamiento,1713.86,7,No,Centro,Web,11997.02
+22,2025-02-12,Laptop Pro 14,Computo,19372.99,5,No,Centro,Marketplace,96864.95
+23,2025-02-14,Laptop Air 13,Computo,14354.39,8,No,Naucalpan,Tienda,114835.12
+24,2025-02-16,SSD 1TB,Almacenamiento,1767.32,7,Si,Satélite,Tienda,12371.24
+25,2025-02-18,Laptop Air 13,Computo,14515.12,10,No,Satélite,Tienda,145151.2
+26,2025-02-20,Memoria USB 128GB,Almacenamiento,460.11,6,Si,Satélite,Tienda,2760.66
+27,2025-02-22,SSD 1TB,Almacenamiento,1758.72,9,No,Naucalpan,Marketplace,15828.48
+28,2025-02-24,Memoria USB 128GB,Almacenamiento,502.29,9,No,Centro,Marketplace,4520.61
+29,2025-02-26,Teclado Mecanico,Accesorios,1242.26,10,No,Satélite,Tienda,12422.6
+30,2025-02-28,Monitor 27,Monitores,5929.7,7,No,Toreo,Marketplace,41507.9
+31,2025-03-02,SSD 1TB,Almacenamiento,1786.37,7,No,Toreo,Tienda,12504.59
+32,2025-03-04,Laptop Air 13,Computo,15332.26,10,Si,Toreo,Marketplace,153322.6
+33,2025-03-06,Monitor 27,Monitores,5972.03,7,No,Satélite,Tienda,41804.21
+34,2025-03-08,Bocina Portatil,Audio,1405.11,6,No,Toreo,Marketplace,8430.66
+35,2025-03-10,Audifonos Bluetooth,Audio,1125.2,5,No,Toreo,Tienda,5626.0
+36,2025-03-12,Audifonos Bluetooth,Audio,1133.07,8,No,Toreo,Tienda,9064.56
+37,2025-03-14,Monitor 27,Monitores,6003.76,6,No,Satélite,Tienda,36022.56
+38,2025-03-16,Laptop Air 13,Computo,15255.87,7,No,Toreo,Tienda,106791.09
+39,2025-03-18,SSD 1TB,Almacenamiento,1811.02,15,Si,Centro,Web,27165.3
+40,2025-03-20,Bocina Portatil,Audio,1408.49,6,No,Satélite,Tienda,8450.94
+41,2025-03-22,Monitor 24,Monitores,4066.34,10,No,Satélite,Web,40663.4
+42,2025-03-24,Audifonos Bluetooth,Audio,1062.03,7,No,Naucalpan,Tienda,7434.21
+43,2025-03-26,Laptop Pro 14,Computo,18655.73,10,Si,Centro,Tienda,186557.3
+44,2025-03-28,SSD 1TB,Almacenamiento,1811.48,9,Si,Toreo,Marketplace,16303.32
+45,2025-03-30,Laptop Air 13,Computo,14903.12,3,No,Toreo,Marketplace,44709.36
+46,2025-04-01,Laptop Air 13,Computo,15032.91,11,No,Naucalpan,Web,165362.01
+47,2025-04-03,Monitor 27,Monitores,6306.45,8,No,Naucalpan,Web,50451.6
+48,2025-04-05,Mouse Inalambrico,Accesorios,618.11,12,Si,Toreo,Tienda,7417.32
+49,2025-04-07,SSD 1TB,Almacenamiento,1723.58,6,No,Toreo,Tienda,10341.48
+50,2025-04-09,Mouse Inalambrico,Accesorios,627.75,7,No,Naucalpan,Marketplace,4394.25
+51,2025-04-11,SSD 1TB,Almacenamiento,1825.56,9,Si,Toreo,Tienda,16430.04
+52,2025-04-13,Teclado Mecanico,Accesorios,1298.71,8,Si,Centro,Web,10389.68
+53,2025-04-15,Teclado Mecanico,Accesorios,1266.78,7,No,Naucalpan,Marketplace,8867.46
+54,2025-04-17,Bocina Portatil,Audio,1508.77,6,No,Toreo,Tienda,9052.62
+55,2025-04-19,Audifonos Bluetooth,Audio,1059.39,9,No,Naucalpan,Tienda,9534.51
+56,2025-04-21,Bocina Portatil,Audio,1458.83,8,No,Toreo,Tienda,11670.64
+57,2025-04-23,Monitor 24,Monitores,3762.76,12,Si,Centro,Tienda,45153.12
+58,2025-04-25,Teclado Mecanico,Accesorios,1299.87,5,No,Toreo,Web,6499.35
+59,2025-04-27,Monitor 27,Monitores,6237.13,6,No,Satélite,Marketplace,37422.78
+60,2025-04-29,Monitor 24,Monitores,1696.02,6,No,Centro,Web,24253.2
+61,2025-05-01,Laptop Pro 14,Computo,19297.01,7,No,Centro,Web,135079.07
+62,2025-05-03,Monitor 24,Monitores,3854.19,8,Si,Toreo,Web,30833.52
+63,2025-05-05,Monitor 27,Monitores,6079.22,8,No,Centro,Tienda,48633.76
+64,2025-05-07,Laptop Pro 14,Computo,18312.16,5,No,Naucalpan,Tienda,91560.8
+65,2025-05-09,Teclado Mecanico,Accesorios,1310.14,6,No,Naucalpan,Tienda,7860.84
+66,2025-05-11,Laptop Air 13,Computo,14324.28,5,No,Naucalpan,Tienda,71621.4
+67,2025-05-13,Laptop Air 13,Computo,14705.86,5,No,Toreo,Web,73529.3
+68,2025-05-15,Memoria USB 128GB,Almacenamiento,468.23,11,No,Satélite,Tienda,5150.53
+69,2025-05-17,SSD 1TB,Almacenamiento,1778.74,7,No,Naucalpan,Marketplace,12451.18
+70,2025-05-19,Mouse Inalambrico,Accesorios,664.28,11,Si,Naucalpan,Marketplace,7307.08
+71,2025-05-21,Teclado Mecanico,Accesorios,1256.8,6,No,Centro,Web,7540.8
+72,2025-05-23,Audifonos Bluetooth,Audio,1112.71,10,No,Naucalpan,Web,11127.1
+73,2025-05-25,SSD 1TB,Almacenamiento,1800.01,9,Si,Naucalpan,Web,16200.09
+74,2025-05-27,Bocina Portatil,Audio,1475.47,9,No,Satélite,Marketplace,13279.23
+75,2025-05-29,Monitor 24,Monitores,3946.51,9,Si,Toreo,Tienda,35518.59
+76,2025-05-31,Teclado Mecanico,Accesorios,1288.32,11,No,Centro,Tienda,14171.52
+77,2025-06-02,Laptop Pro 14,Computo,18996.71,10,No,Satélite,Web,189967.1
+78,2025-06-04,Memoria USB 128GB,Almacenamiento,490.48,6,No,Satélite,Web,2942.88
+79,2025-06-06,Audifonos Bluetooth,Audio,1143.19,9,No,Toreo,Web,10288.71
+80,2025-06-08,Monitor 27,Monitores,6388.55,10,No,Satélite,Tienda,63885.5
+81,2025-06-10,SSD 1TB,Almacenamiento,1685.83,8,No,Satélite,Marketplace,13486.64
+82,2025-06-12,SSD 1TB,Almacenamiento,1828.76,6,No,Satélite,Marketplace,10972.56
+83,2025-06-14,SSD 1TB,Almacenamiento,1819.51,8,No,Satélite,Web,14556.08
+84,2025-06-16,Teclado Mecanico,Accesorios,1292.48,4,No,Naucalpan,Marketplace,5169.92
+85,2025-06-18,Bocina Portatil,Audio,1418.93,7,No,Naucalpan,Web,9932.51
+86,2025-06-20,Mouse Inalambrico,Accesorios,626.49,10,Si,Centro,Web,6264.9
+87,2025-06-22,Monitor 24,Monitores,3916.62,9,No,Satélite,Tienda,35249.58
+88,2025-06-24,Monitor 27,Monitores,6131.48,8,No,Toreo,Marketplace,49051.84
+89,2025-06-26,Audifonos Bluetooth,Audio,1127.88,9,No,Satélite,Marketplace,10150.92
+90,2025-06-28,SSD 1TB,Almacenamiento,1747.94,7,No,Naucalpan,Web,12235.58
+91,2025-06-30,Bocina Portatil,Audio,1493.23,6,Si,Centro,Web,8959.38
+92,2025-07-02,Monitor 24,Monitores,4058.7,10,Si,Toreo,Tienda,40587.0
+93,2025-07-04,Audifonos Bluetooth,Audio,1073.62,7,No,Naucalpan,Tienda,7515.34
+94,2025-07-06,Bocina Portatil,Audio,1426.44,5,No,Satélite,Web,7132.2
+95,2025-07-08,Audifonos Bluetooth,Audio,1127.39,7,No,Toreo,Web,7891.73
+96,2025-07-10,Monitor 27,Monitores,6374.36,6,Si,Toreo,Tienda,38246.16
+97,2025-07-12,Monitor 27,Monitores,6037.9,8,No,Satélite,Marketplace,48303.2
+98,2025-07-14,Laptop Air 13,Computo,14748.25,3,No,Naucalpan,Web,44244.75
+99,2025-07-16,Monitor 24,Monitores,3826.31,8,Si,Toreo,Web,30610.48
+100,2025-07-18,Memoria USB 128GB,Almacenamiento,475.04,5,No,Centro,Tienda,2375.2
+101,2025-07-20,Memoria USB 128GB,Almacenamiento,496.81,9,No,Toreo,Marketplace,4471.29
+102,2025-07-22,Laptop Pro 14,Computo,18560.58,8,No,Naucalpan,Tienda,148484.64
+103,2025-07-24,SSD 1TB,Almacenamiento,1748.29,8,No,Satélite,Web,13986.32
+104,2025-07-26,Bocina Portatil,Audio,1440.65,6,No,Naucalpan,Marketplace,8643.9
+105,2025-07-28,SSD 1TB,Almacenamiento,1766.18,2,No,Naucalpan,Tienda,3532.36
+106,2025-07-30,Laptop Air 13,Computo,15364.81,7,No,Centro,Web,107553.67
+107,2025-08-01,Memoria USB 128GB,Almacenamiento,471.6,4,No,Satélite,Tienda,1886.4
+108,2025-08-03,Mouse Inalambrico,Accesorios,639.62,8,No,Naucalpan,Marketplace,5116.96
+109,2025-08-05,Laptop Pro 14,Computo,18478.87,8,No,Centro,Marketplace,147830.96
+110,2025-08-07,Bocina Portatil,Audio,1442.49,7,No,Toreo,Tienda,10097.43
+111,2025-08-09,Teclado Mecanico,Accesorios,1270.5,4,No,Naucalpan,Web,5082.0
+112,2025-08-11,SSD 1TB,Almacenamiento,1736.96,6,No,Naucalpan,Web,10421.76
+113,2025-08-13,Bocina Portatil,Audio,1482.09,5,No,Naucalpan,Tienda,7410.45
+114,2025-08-15,SSD 1TB,Almacenamiento,1696.02,7,No,Satélite,Web,11872.14
+115,2025-08-17,Memoria USB 128GB,Almacenamiento,470.22,10,No,Naucalpan,Tienda,4702.2
+116,2025-08-19,Teclado Mecanico,Accesorios,1276.0,7,Si,Centro,Web,8932.0
+117,2025-08-21,Laptop Pro 14,Computo,17808.62,4,Si,Satélite,Tienda,71234.48
+118,2025-08-23,Laptop Pro 14,Computo,18443.38,4,No,Satélite,Web,73773.52
+119,2025-08-25,Monitor 24,Monitores,3749.49,7,Si,Toreo,Web,26246.43
+120,2025-08-27,Bocina Portatil,Audio,1461.17,12,Si,Toreo,Tienda,17534.04
+121,2025-08-29,Monitor 24,Monitores,3922.65,7,No,Satélite,Marketplace,27458.55
+122,2025-08-31,Memoria USB 128GB,Almacenamiento,493.23,6,No,Satélite,Web,2959.38
+123,2025-09-02,Bocina Portatil,Audio,1421.78,9,No,Toreo,Marketplace,12796.02
+124,2025-09-04,Laptop Air 13,Computo,14985.76,1,No,Naucalpan,Marketplace,14985.76
+125,2025-09-06,Laptop Air 13,Computo,14291.67,5,No,Satélite,Web,71458.35
+126,2025-09-08,Memoria USB 128GB,Almacenamiento,469.98,8,No,Centro,Web,3759.84
+127,2025-09-10,Teclado Mecanico,Accesorios,1220.57,6,No,Centro,Web,7323.42
+128,2025-09-12,Laptop Air 13,Computo,15018.5,5,No,Naucalpan,Tienda,75092.5
+129,2025-09-14,Laptop Air 13,Computo,15168.46,7,Si,Naucalpan,Web,106179.22
+130,2025-09-16,Laptop Air 13,Computo,15079.24,6,No,Satélite,Web,90475.44
+131,2025-09-18,SSD 1TB,Almacenamiento,1818.15,2,No,Naucalpan,Marketplace,3636.3
+132,2025-09-20,Teclado Mecanico,Accesorios,1198.92,8,Si,Toreo,Marketplace,9591.36
+133,2025-09-22,Teclado Mecanico,Accesorios,1252.37,6,Si,Satélite,Web,7514.22
+134,2025-09-24,Monitor 24,Monitores,3952.57,3,No,Satélite,Tienda,11857.71
+135,2025-09-26,Bocina Portatil,Audio,1392.67,3,No,Centro,Web,4178.01
+136,2025-09-28,Audifonos Bluetooth,Audio,1076.7,6,No,Satélite,Marketplace,6460.2
+137,2025-09-30,Laptop Pro 14,Computo,17789.45,6,No,Satélite,Marketplace,106736.7
+138,2025-10-02,Laptop Pro 14,Computo,18339.51,5,No,Centro,Marketplace,91697.55
+139,2025-10-04,Mouse Inalambrico,Accesorios,630.73,2,No,Centro,Web,1261.46
+140,2025-10-06,Bocina Portatil,Audio,1395.11,2,No,Centro,Marketplace,2790.22
+141,2025-10-08,Monitor 24,Monitores,3741.35,2,No,Toreo,Web,7482.7
+142,2025-10-10,Laptop Air 13,Computo,14797.6,4,No,Naucalpan,Marketplace,59190.4
+143,2025-10-12,Teclado Mecanico,Accesorios,1217.97,8,No,Centro,Web,9743.76
+144,2025-10-14,Monitor 27,Monitores,6425.7,1,No,Naucalpan,Web,6425.7
+145,2025-10-16,Mouse Inalambrico,Accesorios,636.91,5,No,Satélite,Tienda,3184.55
+146,2025-10-18,Bocina Portatil,Audio,1427.54,3,No,Satélite,Web,4282.62
+147,2025-10-20,Mouse Inalambrico,Accesorios,642.39,6,No,Satélite,Tienda,3854.34
+148,2025-10-22,Mouse Inalambrico,Accesorios,663.34,4,No,Satélite,Web,2653.36
+149,2025-10-24,Monitor 24,Monitores,4081.49,6,No,Naucalpan,Tienda,24488.94
+150,2025-10-26,Bocina Portatil,Audio,1453.76,6,Si,Satélite,Tienda,8722.56
+151,2025-10-28,Monitor 24,Monitores,3734.18,9,No,Naucalpan,Web,33607.62
+152,2025-10-30,Memoria USB 128GB,Almacenamiento,487.19,1,No,Naucalpan,Marketplace,487.19
+153,2025-11-01,SSD 1TB,Almacenamiento,1817.8,8,No,Satélite,Marketplace,14542.4
+154,2025-11-03,Laptop Pro 14,Computo,18009.32,5,Si,Naucalpan,Tienda,90046.6
+155,2025-11-05,Laptop Air 13,Computo,15101.76,9,No,Toreo,Web,135915.84
+156,2025-11-07,Monitor 24,Monitores,4057.34,4,No,Toreo,Web,16229.36
+157,2025-11-09,Laptop Pro 14,Computo,18026.77,3,No,Satélite,Marketplace,54080.31
+158,2025-11-11,Monitor 24,Monitores,3773.28,7,No,Satélite,Marketplace,26412.96
+159,2025-11-13,Monitor 27,Monitores,6175.91,6,No,Naucalpan,Web,37055.46
+160,2025-11-15,Teclado Mecanico,Accesorios,1299.86,6,Si,Satélite,Web,7799.16
+161,2025-11-17,SSD 1TB,Almacenamiento,1835.34,10,No,Naucalpan,Marketplace,18353.4
+162,2025-11-19,Audifonos Bluetooth,Audio,1095.25,7,No,Naucalpan,Tienda,7666.75
+163,2025-11-21,Audifonos Bluetooth,Audio,1084.49,6,No,Naucalpan,Marketplace,6506.94
+164,2025-11-23,Teclado Mecanico,Accesorios,1309.74,8,Si,Satélite,Web,10477.92
+165,2025-11-25,Laptop Pro 14,Computo,19115.75,10,Si,Naucalpan,Tienda,191157.5
+166,2025-11-27,Memoria USB 128GB,Almacenamiento,466.51,3,No,Centro,Marketplace,1399.53
+167,2025-11-29,Teclado Mecanico,Accesorios,1268.29,1,No,Naucalpan,Web,1268.29
+168,2025-12-01,Laptop Pro 14,Computo,18929.87,2,No,Toreo,Web,37859.74
+169,2025-12-03,Mouse Inalambrico,Accesorios,652.56,6,No,Naucalpan,Marketplace,3915.36
+170,2025-12-05,SSD 1TB,Almacenamiento,1807.83,6,No,Naucalpan,Web,10846.98
+171,2025-12-07,Teclado Mecanico,Accesorios,1196.91,6,No,Centro,Marketplace,7181.46
+172,2025-12-09,Audifonos Bluetooth,Audio,1054.93,3,No,Satélite,Tienda,3164.79
+173,2025-12-11,Teclado Mecanico,Accesorios,1271.54,4,Si,Satélite,Marketplace,5086.16
+174,2025-12-13,Mouse Inalambrico,Accesorios,661.36,8,Si,Satélite,Tienda,5290.88
+175,2025-12-15,Memoria USB 128GB,Almacenamiento,459.03,7,No,Satélite,Marketplace,3213.21
+176,2025-12-17,Teclado Mecanico,Accesorios,1202.08,4,No,Toreo,Tienda,4808.32
+177,2025-12-19,Teclado Mecanico,Accesorios,1254.69,7,No,Satélite,Web,8782.83
+178,2025-12-21,Mouse Inalambrico,Accesorios,655.68,6,No,Centro,Web,3934.08
+179,2025-12-23,Laptop Air 13,Computo,14474.02,1,No,Naucalpan,Tienda,14474.02
+180,2025-12-25,Bocina Portatil,Audio,1515.33,2,No,Naucalpan,Tienda,3030.66
